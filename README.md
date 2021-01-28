@@ -1,9 +1,9 @@
 # hands-on-ml
 
-hands-on-ml to persian
+Hands-on ML in Persian
 
-Promise to buy the book
+Please promise to buy the book!
 
 https://fanology.ir توسعه داده شده برای
   
-ویدئو های بیشتر در سایت، کانال یوتیوب و آپارات 
+ویدئوهای خوانش کتاب در سایت، کانال آپارات و یوتیوب فنولوژی قرار می گیرند
